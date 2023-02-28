@@ -5,6 +5,26 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Systemintegration", "Systemintegration\Systemintegration.csproj", "{04CBD7D6-0AEE-46BF-92B6-EAF24815DE24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lektion7_MessagingChannelsConstruction", "Lektion7_MessagingChannelsConstruction\Lektion7_MessagingChannelsConstruction.csproj", "{CC21060F-2208-467D-8582-301901C5FF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluffCityAdapterSAS_ETA", "..\..\Given Code\Lektion7 Messaging Channels & Constructors\BluffCityAdapterSAS_ETA\BluffCityAdapterSAS_ETA\BluffCityAdapterWindowsForm\BluffCityAdapterSAS_ETA.csproj", "{B354B2B1-48A1-4CFD-8F64-ADE25D5834B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lektion5", "RequstReplyMathias\Lektion5\Lektion5.csproj", "{555397C6-D200-4C4B-AFAC-5B0755455765}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lektion8", "Lektion8", "{4E2E3C68-4977-4BE3-BD68-DFECFFF7CC59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eksempler", "Eksempler", "{D2195087-1778-441E-96FD-24E00999B2E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluffCityICXPath", "..\..\Given Code\Bluff City\BluffCityICXPath\BluffCityICXPath\MYFirstMSMQ\BluffCityICXPath.csproj", "{49A4C497-218C-46DB-BD33-C3F0936444D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluffCityCheckInOutput", "..\..\Given Code\Bluff City\BluffCityCheckInOutput\BluffCityCheckInOutput\MYFirstMSMQ\BluffCityCheckInOutput.csproj", "{1D41C1E9-786E-42BE-953D-3E34701A8E9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Opgaver", "Opgaver", "{80B9678A-B0D8-4B34-A84D-9513AAD65969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckInSplitter", "Opgave1\CheckInSplitter.csproj", "{6A909F69-13E7-4959-B504-52F04B28ED99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluffCityInformationCenter", "..\..\Given Code\Bluff City\BluffCityInformationCenter\BluffCityInformationCenter\MYFirstMSMQ\BluffCityInformationCenter.csproj", "{07A78122-EE90-4C54-9FDD-946F1BF06EF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +35,45 @@ Global
 		{04CBD7D6-0AEE-46BF-92B6-EAF24815DE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04CBD7D6-0AEE-46BF-92B6-EAF24815DE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04CBD7D6-0AEE-46BF-92B6-EAF24815DE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC21060F-2208-467D-8582-301901C5FF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC21060F-2208-467D-8582-301901C5FF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC21060F-2208-467D-8582-301901C5FF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC21060F-2208-467D-8582-301901C5FF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B354B2B1-48A1-4CFD-8F64-ADE25D5834B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B354B2B1-48A1-4CFD-8F64-ADE25D5834B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B354B2B1-48A1-4CFD-8F64-ADE25D5834B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B354B2B1-48A1-4CFD-8F64-ADE25D5834B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555397C6-D200-4C4B-AFAC-5B0755455765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555397C6-D200-4C4B-AFAC-5B0755455765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555397C6-D200-4C4B-AFAC-5B0755455765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555397C6-D200-4C4B-AFAC-5B0755455765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A4C497-218C-46DB-BD33-C3F0936444D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A4C497-218C-46DB-BD33-C3F0936444D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A4C497-218C-46DB-BD33-C3F0936444D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A4C497-218C-46DB-BD33-C3F0936444D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D41C1E9-786E-42BE-953D-3E34701A8E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D41C1E9-786E-42BE-953D-3E34701A8E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D41C1E9-786E-42BE-953D-3E34701A8E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D41C1E9-786E-42BE-953D-3E34701A8E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A909F69-13E7-4959-B504-52F04B28ED99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A909F69-13E7-4959-B504-52F04B28ED99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A909F69-13E7-4959-B504-52F04B28ED99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A909F69-13E7-4959-B504-52F04B28ED99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A78122-EE90-4C54-9FDD-946F1BF06EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A78122-EE90-4C54-9FDD-946F1BF06EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A78122-EE90-4C54-9FDD-946F1BF06EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A78122-EE90-4C54-9FDD-946F1BF06EF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D2195087-1778-441E-96FD-24E00999B2E2} = {4E2E3C68-4977-4BE3-BD68-DFECFFF7CC59}
+		{49A4C497-218C-46DB-BD33-C3F0936444D7} = {D2195087-1778-441E-96FD-24E00999B2E2}
+		{1D41C1E9-786E-42BE-953D-3E34701A8E9B} = {D2195087-1778-441E-96FD-24E00999B2E2}
+		{80B9678A-B0D8-4B34-A84D-9513AAD65969} = {4E2E3C68-4977-4BE3-BD68-DFECFFF7CC59}
+		{6A909F69-13E7-4959-B504-52F04B28ED99} = {80B9678A-B0D8-4B34-A84D-9513AAD65969}
+		{07A78122-EE90-4C54-9FDD-946F1BF06EF9} = {D2195087-1778-441E-96FD-24E00999B2E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {369D43BF-681C-46C3-A7A9-649292C6F2A0}

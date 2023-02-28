@@ -1,0 +1,8 @@
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion7_MessagingChannelsConstruction\bin\Debug\Lektion7_MessagingChannelsConstruction.exe.config
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion7_MessagingChannelsConstruction\bin\Debug\Lektion7_MessagingChannelsConstruction.exe
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion7_MessagingChannelsConstruction\bin\Debug\Lektion7_MessagingChannelsConstruction.pdb
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion7_MessagingChannelsConstruction\obj\Debug\Lektion7_MessagingChannelsConstruction.csproj.AssemblyReference.cache
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion7_MessagingChannelsConstruction\obj\Debug\Lektion7_MessagingChannelsConstruction.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion7_MessagingChannelsConstruction\obj\Debug\Lektion7_MessagingChannelsConstruction.csproj.CoreCompileInputs.cache
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion7_MessagingChannelsConstruction\obj\Debug\Lektion7_MessagingChannelsConstruction.exe
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion7_MessagingChannelsConstruction\obj\Debug\Lektion7_MessagingChannelsConstruction.pdb

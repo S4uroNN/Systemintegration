@@ -1,0 +1,8 @@
+C:\Users\Frand\Documents\4Semester\SystemIntegration\SystemIntegration\Lektion5\obj\Debug\Lektion5.csproj.AssemblyReference.cache
+C:\Users\Frand\Documents\4Semester\SystemIntegration\SystemIntegration\Lektion5\obj\Debug\Lektion5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frand\Documents\4Semester\SystemIntegration\SystemIntegration\Lektion5\obj\Debug\Lektion5.csproj.CoreCompileInputs.cache
+C:\Users\Frand\Documents\4Semester\SystemIntegration\SystemIntegration\Lektion5\bin\Debug\Lektion5.exe.config
+C:\Users\Frand\Documents\4Semester\SystemIntegration\SystemIntegration\Lektion5\bin\Debug\Lektion5.exe
+C:\Users\Frand\Documents\4Semester\SystemIntegration\SystemIntegration\Lektion5\bin\Debug\Lektion5.pdb
+C:\Users\Frand\Documents\4Semester\SystemIntegration\SystemIntegration\Lektion5\obj\Debug\Lektion5.exe
+C:\Users\Frand\Documents\4Semester\SystemIntegration\SystemIntegration\Lektion5\obj\Debug\Lektion5.pdb
