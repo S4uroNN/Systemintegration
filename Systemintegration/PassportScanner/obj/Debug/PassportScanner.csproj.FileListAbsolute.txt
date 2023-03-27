@@ -1,0 +1,8 @@
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\PassportScanner\bin\Debug\PassportScanner.exe.config
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\PassportScanner\bin\Debug\PassportScanner.exe
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\PassportScanner\bin\Debug\PassportScanner.pdb
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\PassportScanner\obj\Debug\PassportScanner.csproj.AssemblyReference.cache
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\PassportScanner\obj\Debug\PassportScanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\PassportScanner\obj\Debug\PassportScanner.csproj.CoreCompileInputs.cache
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\PassportScanner\obj\Debug\PassportScanner.exe
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\PassportScanner\obj\Debug\PassportScanner.pdb

@@ -1,0 +1,8 @@
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion16\bin\Debug\Lektion16.exe.config
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion16\bin\Debug\Lektion16.exe
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion16\bin\Debug\Lektion16.pdb
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion16\obj\Debug\Lektion16.csproj.AssemblyReference.cache
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion16\obj\Debug\Lektion16.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion16\obj\Debug\Lektion16.csproj.CoreCompileInputs.cache
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion16\obj\Debug\Lektion16.exe
+C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Lektion16\obj\Debug\Lektion16.pdb

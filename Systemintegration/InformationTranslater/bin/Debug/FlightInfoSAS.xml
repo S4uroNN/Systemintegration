@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FlightInFormation>
+    <Airline>SAS</Airline>
+    <FlightNumber>SK239</FlightNumber>
+    <Destination>JFK</Destination>
+    <Origin>CPH</Origin>
+    <ArrivalDeparture>D </ArrivalDeparture>
+    <Dato> 6.Marts 2017 </Dato>
+    <Time> 16:45 </Time>
+</FlightInFormation>
