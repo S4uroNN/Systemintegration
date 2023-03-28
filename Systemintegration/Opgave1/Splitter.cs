@@ -31,6 +31,7 @@ namespace Opgave1
         {
             MessageQueue mq = (MessageQueue)source;
             Message message = mq.EndReceive(asyncResult.AsyncResult);
+            Console.WriteLine(message.Body.ToString());
             string label = message.Label;
             XmlDocument xml = new XmlDocument();
             string XmlDocument = null;

@@ -6,3 +6,11 @@ C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\obj\De
 C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\obj\Debug\CheckInSplitter.csproj.CoreCompileInputs.cache
 C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\obj\Debug\Opgave1.exe
 C:\Users\Alin\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\obj\Debug\Opgave1.pdb
+D:\Users\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\bin\Debug\Opgave1.exe.config
+D:\Users\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\bin\Debug\Opgave1.exe
+D:\Users\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\bin\Debug\Opgave1.pdb
+D:\Users\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\obj\Debug\CheckInSplitter.csproj.AssemblyReference.cache
+D:\Users\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\obj\Debug\CheckInSplitter.csproj.SuggestedBindingRedirects.cache
+D:\Users\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\obj\Debug\CheckInSplitter.csproj.CoreCompileInputs.cache
+D:\Users\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\obj\Debug\Opgave1.exe
+D:\Users\OneDrive\4. Sem\Systemintegration\Systemintegration\Opgave1\obj\Debug\Opgave1.pdb

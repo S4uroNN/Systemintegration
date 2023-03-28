@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassportScanner", "Passport
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lektion16", "Lektion16\Lektion16.csproj", "{A6A2FB2D-BA60-4A75-97C1-ED54632AA307}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miniprojekt", "Miniprojekt\Miniprojekt.csproj", "{68629548-6B10-4BB4-A466-4E85DBD27D89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{A6A2FB2D-BA60-4A75-97C1-ED54632AA307}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6A2FB2D-BA60-4A75-97C1-ED54632AA307}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6A2FB2D-BA60-4A75-97C1-ED54632AA307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68629548-6B10-4BB4-A466-4E85DBD27D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68629548-6B10-4BB4-A466-4E85DBD27D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68629548-6B10-4BB4-A466-4E85DBD27D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68629548-6B10-4BB4-A466-4E85DBD27D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

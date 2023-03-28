@@ -1,0 +1,8 @@
+C:\Users\Bruger\Documents\Datamatiker\4. Semester\System integration\SystemIntegration\Opgave3MessageTransformation\bin\Debug\Opgave3MessageTransformation.exe.config
+C:\Users\Bruger\Documents\Datamatiker\4. Semester\System integration\SystemIntegration\Opgave3MessageTransformation\bin\Debug\Opgave3MessageTransformation.exe
+C:\Users\Bruger\Documents\Datamatiker\4. Semester\System integration\SystemIntegration\Opgave3MessageTransformation\bin\Debug\Opgave3MessageTransformation.pdb
+C:\Users\Bruger\Documents\Datamatiker\4. Semester\System integration\SystemIntegration\Opgave3MessageTransformation\obj\Debug\Opgave3MessageTransformation.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\Datamatiker\4. Semester\System integration\SystemIntegration\Opgave3MessageTransformation\obj\Debug\Opgave3MessageTransformation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruger\Documents\Datamatiker\4. Semester\System integration\SystemIntegration\Opgave3MessageTransformation\obj\Debug\Opgave3MessageTransformation.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\Datamatiker\4. Semester\System integration\SystemIntegration\Opgave3MessageTransformation\obj\Debug\Opgave3MessageTransformation.exe
+C:\Users\Bruger\Documents\Datamatiker\4. Semester\System integration\SystemIntegration\Opgave3MessageTransformation\obj\Debug\Opgave3MessageTransformation.pdb

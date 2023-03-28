@@ -16,6 +16,8 @@ namespace Opgave1
             MessageQueue luggageQueue = null;
             MessageQueue resequenceQueue = null;
 
+            
+
 
             if (MessageQueue.Exists(@".\private$\airportcheckinoutput"))
             {
@@ -67,7 +69,7 @@ namespace Opgave1
 
 
             Splitter splitter = new Splitter(inQueue,passangerQueue,luggageQueue);
-            Resequencer resequencer = new Resequencer(luggageQueue, resequenceQueue);
+            //Resequencer resequencer = new Resequencer(luggageQueue, resequenceQueue);
 
             Console.ReadLine();
             
